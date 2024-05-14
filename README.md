@@ -21,7 +21,7 @@ I am @duhoe-kim. I am interested in ML, especially in GenAI and NLP. <br>
     </p>
   </li>
   <li>
-    <h4>Natural Language Process (NLP) - Web scrapping</h4>
+    <h4>year2-NLP-web-scrap</h4>
     <p>
       This project is about natural lanauge processing, web srapping the skills required for software developer (junior).
       I have web scrapped job searching websites used in Singapore (Indeed, JobStreet, and LinkedIn).<br><br>
