@@ -1,4 +1,4 @@
-I am @duhoe-kim. I am interested in ML, especially in GenAI and NLP. <br>
+I am @duhoe-kim. I am currently looking for job actively<br>
 
 <h3> About my repository </h3>
 <ul>
