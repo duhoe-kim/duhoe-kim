@@ -3,7 +3,7 @@ I am @duhoe-kim. I am interested in ML, especially in GenAI and NLP. <br>
 <h3> About my repository </h3>
 <ul>
   <li>
-    <h4>year2-agile-software-dev-project</h4>
+    <h4>agile-software-dev-project</h4>
     <p>
       This project is about agile software development, web application for diet recommondation.
       I have included back-end and front-end developement that I implemented during the assessment time.<br><br>
@@ -21,7 +21,7 @@ I am @duhoe-kim. I am interested in ML, especially in GenAI and NLP. <br>
     </p>
   </li>
   <li>
-    <h4>year2-NLP-web-scrap</h4>
+    <h4>NLP-web-scrap</h4>
     <p>
       This project is about natural lanauge processing, web srapping the skills required for software developer (junior).
       I have web scrapped job searching websites used in Singapore (Indeed, JobStreet, and LinkedIn).<br><br>
